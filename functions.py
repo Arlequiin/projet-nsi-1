@@ -1,4 +1,5 @@
 alphabet='abcdefghijklmnopqrstuvwxyz'
+alphabet_latin='abcdefghijklmnopqrstuvwxyzéèêëēėęàáâäæãåāôöòóœøōõûüùúūîïíīįìÿçćč'
 def error(n):
     errors=["exception non gérée.",
     "vous devez choisir un nombre entre un et deux. Veuillez réessayer.",

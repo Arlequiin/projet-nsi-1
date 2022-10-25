@@ -46,13 +46,13 @@ if type_choice=='input':
  except:
    error(0)
 elif type_choice=='file':
-   input(colored("Nommez votre fichier 'cesar.txt' et mettez-le dans le dossier 'projet-nsi-1', appuyez ensuite sur Entrée.",0,0,200))
+   input(colored("Nommez votre fichier 'file.txt' et mettez-le dans le dossier 'projet-nsi-1', appuyez ensuite sur Entrée.",0,0,200))
    try:
-      with open('cesar.txt','r') as f:
+      with open('file.txt','r') as f:
          content=f.read()
-      with open('cesar.txt','w') as f2:
+      with open('file.txt','w') as f2:
          f2.write(eval(operation_choice+"(content)"))
    except:
       error(0)
-   print(colored("Votre fichier a été déchiffré avec succès!",0,100,150))
+   print(colored("Votre fichier a été modifié avec succès!",0,100,150))
 print(colored("Fin de l'exécution",0,255,0))
