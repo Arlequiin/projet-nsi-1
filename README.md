@@ -13,6 +13,8 @@ Plusieurs modes de jeu sont disponibles, en premier lieu :<br>
 <li> Le mode choix<br>
 Il y a trois niveaux de difficulté dans le mode aléatoire, facile pour les mots de 5 lettres, normal 10 lettres et difficile 15 lettres. Vous aurez droit à un nombre de tentatives égal à la longueur du mot.<br>
 Pour ce qui est du mode choix, vous pourrez choisir un mot et demander à quelqu'un de le deviner, même chose pour le nombre de tentatives, il est égal au nombre de lettres.
+<img src="image1.png">
+<img src="image2.png">
 <h2>6. Chiffrement de César</h2>
 <ul>
   Lors de ses batailles, l'empereur romain JULES CÉSAR cryptait les messages qu'il envoyait à ses généraux. Sa méthode de codage consistait à décaler les lettres de 3 rangs, vers la droite, dans l'alphabet. Cette méthode de cryptage est appelée chiffrement de César, ou Code César.<br>
