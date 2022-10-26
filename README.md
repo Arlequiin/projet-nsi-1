@@ -2,6 +2,12 @@
 Projet réalisés durant les vacances de la Toussaint pour la spécialité NSI.
 # Présentation des différents projets
 > Les projets sont au nombre de 6.
+<h2>1. Calculatrice Binaire</h2>
+Todo
+<h2>2. Générateur de codes barres</h2>
+todo
+<h2>3. Horloge</h2>
+todo
 <h2>4. Palindrome</h2>
 <ul>
 Selon la définition des principaux dictionnaires, un palindrome est un mot, un nombre ou une phrase « que l'on peut lire indifféremment de gauche à droite et de droite à gauche. » En d'autres termes, la succession des lettres ou des chiffres du palindrome est identique quand on la parcourt de gauche à droite ou de droite à gauche. Le palindrome est considéré comme une figure de style, et est apprécié de nombreux littérateurs ou de verbicrucistes.<br>Mon script peut reconnaître les Palindromes.
