@@ -10,7 +10,7 @@ while True:
 if word_choice=='random':
  while True:
     try:
-     lettres_max={'1':5,'2':10,'3':15}[input(colored("1. Facile / 2. Normal / 3. Difficile\n>>> ",150,150,150))]
+     lettres_max={'1':5,'2':10,'3':15}[input(colored("1. Difficile / 2. Normal / 3. Facile\n>>> ",150,150,150))]
      break
     except:
      error(4)
@@ -33,6 +33,7 @@ unavailable=[]
 decomps=[lettres_max-2*(int(lettres_max/2)),int(lettres_max/2)]
 print(decomps)
 speed(1000)
+hideturtle()
 while attempts>0:
     clear()
     print('-'*10)

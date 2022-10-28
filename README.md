@@ -7,7 +7,7 @@ Todo
 <h2>2. Générateur de codes barres</h2>
 todo
 <h2>3. Horloge</h2>
-todo
+Une horloge analogique (avec aiguilles) faite en Python avec l'utilisation du module `turtle` possédant un système de rafraîchissement automatique, via l'utilisation d'un bloc `while` et du module `time` et `datetime`.
 <h2>4. Palindrome</h2>
 <ul>
 Selon la définition des principaux dictionnaires, un palindrome est un mot, un nombre ou une phrase « que l'on peut lire indifféremment de gauche à droite et de droite à gauche. » En d'autres termes, la succession des lettres ou des chiffres du palindrome est identique quand on la parcourt de gauche à droite ou de droite à gauche. Le palindrome est considéré comme une figure de style, et est apprécié de nombreux littérateurs ou de verbicrucistes.<br>Mon script peut reconnaître les Palindromes.
