@@ -57,9 +57,9 @@ elif type_choice=='file':
          content=f.read()
       with open('file.txt','w') as f2:
          f2.write(eval(operation_choice+"(content)"))
-         write(eval(operation_choice+"(content)"),font=("Arial", 16, "normal"))
-         mainloop()
          print(colored("Votre fichier a été modifié avec succès!",0,100,150))
+      write(eval(operation_choice+"(content)"),font=("Arial", 16, "normal"))
+      mainloop()
    except:
       error(0)
 print(colored("Fin de l'exécution",0,255,0))
