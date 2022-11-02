@@ -1,6 +1,5 @@
 from turtle import *
 from functions import *
-from turtle import *
 #Projet chiffrement de cesar
 def to_list_of_indexes(charset):
    charset=charset.lower()
